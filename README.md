@@ -1,6 +1,6 @@
 `avr-hal-blink`
 ==================
-This project was created using the `avr-hal-template`.
+This project was created using the [`avr-hal-template`].
 
 [`avr-hal-template`]: https://github.com/Rahix/avr-hal-template
 
